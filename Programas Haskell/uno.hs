@@ -1,0 +1,1 @@
+cuadrado n = n * n
