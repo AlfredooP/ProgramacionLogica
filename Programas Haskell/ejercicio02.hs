@@ -3,6 +3,6 @@ y numero de telefono de una persona -}
 main = do
     putStrLn "-------"
     putStrLn "Alfredo Puentes"
-    putStrLn "25/07/2004"
-    putStrLn "871-855771"
+    putStrLn "XX/XX/XXXX"
+    putStrLn "XXX-XXXXXXX"
     putStrLn "-------"
